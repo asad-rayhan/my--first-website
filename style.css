@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+img{
+    vertical-align: middle;
+}
+clr{
+    clear: both;
+}
+/* ==================================
+    common css end
+====================================*/
+/* ============================================================
+               header part start
+==============================================================*/
+h1 span{
+    color:orange;
+    font-family:fantasy ;
+    font-weight: 700;
+}
+h1{
+    font-size: 40px;
+    margin-top:20px;
+    font-family:fantasy ;
+    font-weight: 700;
+}
+h4{
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+.header{
+    display: flex;
+    width: 100%;
+}
+.head1 a{
+    padding:10px 20px;
+    background:purple;
+    color:#fff;
+    margin-top: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.head1{
+    width:50%;
+    margin-left:20px;
+}
+.head2 img{
+    width:40%;
+    margin-left:340px;
+    margin-top:-10px;
+}
+.head1 P{
+    text-align: justify;
+}
+
+
+/* ============================================================
+               header part end
+==============================================================*/
+.dream{
+    display: flex;
+    width: 100%;
+}
+.margin{
+    margin-top: 90px;
+}
+.img_left{
+    margin-left: -200px;
+}
+/* ============================================================
+               dream part start
+==============================================================*/
+
+/* ============================================================
+               dream part end
+==============================================================*/
+/* ============================================================
+               header part start
+==============================================================*/
+/* ============================================================
+               header part end
+==============================================================*/
